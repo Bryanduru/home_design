@@ -6,7 +6,7 @@
     color: white;
 }
 .banner {
-    background-image:linear-gradient(rgba(0, 0, 0, 0.75),rgba(0, 0, 0, 0.75)),url(background_home_design.jpg);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.75),rgba(0, 0, 0, 0.75)),url(images/background_home_design.jpg);
     background-size: cover;
     height: 100vh;
     width: 100%;
