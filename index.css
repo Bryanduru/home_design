@@ -127,7 +127,7 @@ span{
 .social-links a:hover i{
     color: rgb(248, 115, 19);
 }
-@media (max-width: 800px) {
+@media (max-width: 1100px) {
     .page-grid{
         grid-template-columns: 1em repeat(8, 1fr) 1em;
         grid-template-rows: 20% 70% 10%;
